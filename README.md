@@ -1,4 +1,4 @@
-# lattice_thermal_conductivity
+# Lattice Thermal Conductivty Data
 Supplementary files for our work in the paper "Lattice thermal conductivity: An accelerated discovery guided by machine learning"
 
 This reposirtry contains three files:
